@@ -1,0 +1,3 @@
+[submodule "PaasSDK"]
+	path = PaasSDK
+	url = https://github.com/hongzhuxuke/PaasSDK.git
