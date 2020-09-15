@@ -1,7 +1,7 @@
 #pragma once
 #include "LiveEventInterface.h"
 #include "vh_room_common.h"
-#include "./VhallPaasSDK/callback_monitor.h"
+#include "./PaasSDK/callback_monitor.h"
 
 #define CALL_BACK_SUC   200
 //接收到的房间内广播的消息通知

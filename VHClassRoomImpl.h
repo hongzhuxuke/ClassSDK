@@ -12,7 +12,7 @@
 #include "lib/rapidjson/include/rapidjson/writer.h"
 #include "lib/rapidjson/include/rapidjson/reader.h"
 #include "lib/rapidjson/include/rapidjson/document.h"
-#include "../VhallPaasSDK/VHPaasRoomImpl.h"
+#include "../PaasSDK/VHPaasRoomImpl.h"
 
 using namespace rapidjson;
 ////开发环境

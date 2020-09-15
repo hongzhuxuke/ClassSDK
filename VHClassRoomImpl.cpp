@@ -24,7 +24,7 @@
 #include <QByteArray>
 #include <QString>
 #include <QJsonValue> 
-#include "./VhallPaasSDK/vh_room_msg.h"
+#include "./PaasSDK/vh_room_msg.h"
 
 using namespace std;
 

@@ -3,7 +3,7 @@
 #include <list>
 #include <Windows.h>
 #include "class_callback_monitor.h"
-#include "./VhallWebRtcSDK/Interactive_live_SDK_win/vhall_webrtc_sdk/signalling/tool/VideoRenderReceiver.h"
+#include "./WebRtcSDK/Interactive_live_SDK_win/vhall_webrtc_sdk/signalling/tool/VideoRenderReceiver.h"
 
 #ifdef  VHCLASS_SDK_EXPORT
 #define VHCLASS_SDK_EXPORT     __declspec(dllimport)
